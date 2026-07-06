@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Practice Agent",
+  "description": "An interactive full-stack app to practice role-specific job interviews with an AI interviewer, featuring RAG-grounded questions, real-time grading with structured STAR method feedback, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
